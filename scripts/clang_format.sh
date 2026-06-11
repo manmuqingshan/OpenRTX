@@ -286,8 +286,6 @@ platform/mcu/STM32F4xx/drivers/USART3.h
 platform/mcu/STM32F4xx/drivers/delays.cpp
 platform/mcu/STM32F4xx/drivers/flash.c
 platform/mcu/STM32F4xx/drivers/flash.h
-platform/mcu/STM32F4xx/drivers/i2c_stm32.c
-platform/mcu/STM32F4xx/drivers/i2c_stm32.h
 platform/mcu/STM32F4xx/drivers/rcc.c
 platform/mcu/STM32F4xx/drivers/rcc.h
 platform/mcu/STM32F4xx/drivers/rng.c
